@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\40809588897\\Desktop\\Programar\\Semana7\\PostodeCombustivel\\ClassesPais\\ClassesFilhas\\ClassesFilhas.csproj",
-      "projectName": "ClassesFilhas",
-      "projectPath": "C:\\Users\\40809588897\\Desktop\\Programar\\Semana7\\PostodeCombustivel\\ClassesPais\\ClassesFilhas\\ClassesFilhas.csproj",
+      "projectUniqueName": "C:\\Users\\40809588897\\Desktop\\Programar\\Semana7\\PostodeCombustivel\\Util\\Util.csproj",
+      "projectName": "Util",
+      "projectPath": "C:\\Users\\40809588897\\Desktop\\Programar\\Semana7\\PostodeCombustivel\\Util\\Util.csproj",
       "packagesPath": "C:\\Users\\40809588897\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\40809588897\\Desktop\\Programar\\Semana7\\PostodeCombustivel\\ClassesPais\\ClassesFilhas\\obj\\",
+      "outputPath": "C:\\Users\\40809588897\\Desktop\\Programar\\Semana7\\PostodeCombustivel\\Util\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PostodeCombustivel.ClassesPais
+namespace PostodeCombustivel.Dominio
 {
     public class Endereco
     {

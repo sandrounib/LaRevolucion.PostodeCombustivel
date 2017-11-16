@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PostodeCombustivel.ClassesPais.ClassesFilhas
+namespace PostodeCombustivel.Dominio.ClassesFilhas
 {
     public class Clientes
     {
