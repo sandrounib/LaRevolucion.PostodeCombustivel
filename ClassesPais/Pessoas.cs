@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ClassesPais
+namespace PostodeCombustivel.ClassesPais
 {
-    public class 
+    public class Pessoas
     {
     }
 }

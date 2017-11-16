@@ -2,7 +2,7 @@
 
 namespace PostodeCombustivel.ClassesPais.ClassesFilhas
 {
-    public class 
+    public class Clientes
     {
     }
 }
